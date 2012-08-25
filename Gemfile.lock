@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    celluloid (0.11.1)
+      timers (>= 1.0.0)
+    timers (1.0.1)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  celluloid
